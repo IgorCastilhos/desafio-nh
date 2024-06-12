@@ -1,6 +1,7 @@
 # Sobre o Projeto
 
-Este projeto é uma aplicação web inspirada no **Spotify**, desenvolvida para praticar habilidades de desenvolvimento Front-End.
+Este projeto é uma aplicação web inspirada no **Spotify**, desenvolvida para praticar habilidades de desenvolvimento Front-End. <br/>
+Link: https://desafio-nh.vercel.app/
 
 ![hero-image]
 
